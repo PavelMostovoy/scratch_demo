@@ -1,0 +1,3 @@
+pylint
+selenium>=4
+behave
